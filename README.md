@@ -9,7 +9,9 @@ The datas are secured.
 so each event or transaction is time-stamped as a permanent record, which cannot be tampered.
 .On permissionless blockchains, each individual can view all records. And on permissioned blockchains, privacy can be maintained by an agreement that which parties can view the agreement, by masking the identity of the party.
 .Data is theoretically secured and protected from data breach threats.
-using lock().we can prevent a other for getting asset to the data
+using lock().we can prevent a other for getting asset to the data.
+.Many doctors can share a patient info if authorized and also a patient can chose
+who to get into he datadase.
  
 Data managed by medical organizations includes:
 .Patient health information (PHI);
